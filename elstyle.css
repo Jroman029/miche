@@ -1,0 +1,65 @@
+
+
+body {background-color: blanchedalmond; 
+    
+    
+
+}
+
+#the{
+  background-color: coral;
+}
+#cont{
+
+    border-color: black;
+    border-style:solid;
+    background-color: rgb(168, 90, 90);  
+      width:fit-content;
+    height:fit-content;
+  
+        
+  
+      }
+
+h1   {color: blue;}
+p    {color: rgb(181, 146, 7); 
+    
+  font-family: arial, sans-serif;
+
+}    
+img { 
+
+     /*display: block;*/
+     margin-left: auto;
+     margin-right: auto;
+     height: 135px;
+     width: 105px;
+     
+     
+    }
+.container {
+    align-items: center;
+    justify-content: center;
+    border: 10px;
+  }
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20%;
+    float: left;
+    
+  }
+
+  div {
+  /*border: 1px solid black;*/
+  padding-left: 10px;
+  width: 190px ;
+  height: 300px;
+  text-align: center;
+}
+
+#pie{
+ background-color: aquamarine;
+ text-align: center;
+}
+      
